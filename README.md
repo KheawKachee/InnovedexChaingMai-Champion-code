@@ -4,4 +4,4 @@
 ที่ชนะมาได้เพราะทำเร็วกว่ากลุ่มอื่นเขา
 
 # Contributor
-[mark48853](https://github.com/mark48853) และ [earth404](https://github.com/earth404)
+[@mark48853](https://github.com/mark48853) และ [@earth404](https://github.com/earth404)
